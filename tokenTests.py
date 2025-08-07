@@ -1,9 +1,21 @@
-# Sources:
-# - "PyJWT Documentation." PyJWT, https://pyjwt.readthedocs.io/en/stable/
-# - Python Software Foundation. “uuid — UUID objects according to RFC 4122.” Python 3.11.8 Documentation, https://docs.python.org/3/library/uuid.html
-# - Python Software Foundation. “platform — Access to underlying platform’s identifying data.” Python 3.11.8 Documentation, https://docs.python.org/3/library/platform.html
-# - Python Software Foundation. “socket — Low-level networking interface.” Python 3.11.8 Documentation, https://docs.python.org/3/library/socket.html
-# - Python Software Foundation. “time — Time access and conversions.” Python 3.11.8 Documentation, https://docs.python.org/3/library/time.html
+# Sources Used (MLA Format):
+# 
+# 1. Python Software Foundation. “uuid — UUID Objects According to RFC 4122.” 
+#    Python 3.11.8 Documentation, https://docs.python.org/3/library/uuid.html. Accessed 7 Aug. 2025.
+#
+# 2. Python Software Foundation. “platform — Access to Underlying Platform’s Identifying Data.” 
+#    Python 3.11.8 Documentation, https://docs.python.org/3/library/platform.html. Accessed 7 Aug. 2025.
+#
+# 3. Python Software Foundation. “socket — Low-Level Networking Interface.” 
+#    Python 3.11.8 Documentation, https://docs.python.org/3/library/socket.html. Accessed 7 Aug. 2025.
+#
+# 4. Python Software Foundation. “time — Time Access and Conversions.” 
+#    Python 3.11.8 Documentation, https://docs.python.org/3/library/time.html. Accessed 7 Aug. 2025.
+#
+# 5. PyJWT Documentation. PyJWT, https://pyjwt.readthedocs.io/en/stable/. Accessed 7 Aug. 2025.
+#
+# 6. OpenAI. ChatGPT, version 4o. Accessed 7 Aug. 2025. Prompted by the user to generate and document a Python-based 
+#    machine-tokenization system using JWT. https://chat.openai.com/
 
 import uuid
 import platform
