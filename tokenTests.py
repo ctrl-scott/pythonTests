@@ -16,6 +16,8 @@
 #
 # 6. OpenAI. ChatGPT, version 4o. Accessed 7 Aug. 2025. Prompted by the user to generate and document a Python-based 
 #    machine-tokenization system using JWT. https://chat.openai.com/
+# ***********
+# While I understand the security concept of not trusting MAC addresses - this script is geared toward unique and real users of machines and other devices
 
 import uuid
 import platform
